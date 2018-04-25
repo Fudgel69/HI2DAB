@@ -162,9 +162,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Adresse.cs" />
-    <Compile Include="By.cs" />
-    <Compile Include="DBKontekst.cs" />
+    <Compile Include="Bestanddele\Adresse.cs" />
+    <Compile Include="Bestanddele\By.cs" />
+    <Compile Include="Bestanddele\DBKontekst.cs" />
     <Compile Include="Migrations\201803061632311_InitialDatabase.cs" />
     <Compile Include="Migrations\201803061632311_InitialDatabase.Designer.cs">
       <DependentUpon>201803061632311_InitialDatabase.cs</DependentUpon>
@@ -173,12 +173,20 @@
     <Compile Include="Migrations\201803061659352_NyByfil.Designer.cs">
       <DependentUpon>201803061659352_NyByfil.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804251905529_Repository.cs" />
+    <Compile Include="Migrations\201804251905529_Repository.Designer.cs">
+      <DependentUpon>201804251905529_Repository.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Person.cs" />
-    <Compile Include="Personkartotek.cs" />
+    <Compile Include="Bestanddele\Person.cs" />
+    <Compile Include="Bestanddele\Personkartotek.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="PersonRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Telefon.cs" />
+    <Compile Include="Bestanddele\Telefon.cs" />
+    <Compile Include="Repository.cs" />
+    <Compile Include="Repository\IPersonRepository.cs" />
+    <Compile Include="Repository\IRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -196,6 +204,10 @@
     <EmbeddedResource Include="Migrations\201803061659352_NyByfil.resx">
       <DependentUpon>201803061659352_NyByfil.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804251905529_Repository.resx">
+      <DependentUpon>201804251905529_Repository.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
