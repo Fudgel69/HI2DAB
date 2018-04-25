@@ -50,7 +50,7 @@ namespace HandIn2EF
                 {
                     Fornavn = "Bo",
                     Efternavn = "Bertelsen",
-
+                    SekAdresse = new List<Adresse>(),
                     PrimAdresse = Hjem
                 };
                 Bo.SekAdresse.Add(Sommerhus);
@@ -61,17 +61,17 @@ namespace HandIn2EF
                     Fornavn = "Brian",
                     Mellemnavn = "Mørk",
                     Efternavn = "Mikkelsen",
-
+                    SekAdresse = new List<Adresse>(),
                     PrimAdresse = Arbejde
                 };
 
                 #endregion
-
+                Console.WriteLine("Press any key to quit");
                 // Add persons
                 _UnitOfWork.Persons.Add(Bo);
                 _UnitOfWork.Persons.Add(Brian);
                 _UnitOfWork.Save(); // this will create town, addresses and persons in DB
-
+                Console.WriteLine("Press any key to quit");
                 // Get person
                 Person p1 = _UnitOfWork.Persons.GetById(Bo.PersonId);
                 Console.WriteLine("{0}, {1}", p1.Efternavn, p1.Fornavn);

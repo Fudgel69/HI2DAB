@@ -15,11 +15,7 @@ public class UnitOfWork : IUnitOfWork
 	{
 		_context = new PKKontekst();
 	}
-	
-    public IProgramRepository Programs
-    {
-        get { return new ProgramRepository(_context); }
-    }
+
 
     public IAdresseRepository Adresses
     {

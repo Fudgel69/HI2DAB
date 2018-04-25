@@ -177,6 +177,10 @@
     <Compile Include="Migrations\201804251905529_Repository.Designer.cs">
       <DependentUpon>201804251905529_Repository.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804251953063_Initial_Creation.cs" />
+    <Compile Include="Migrations\201804251953063_Initial_Creation.Designer.cs">
+      <DependentUpon>201804251953063_Initial_Creation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Bestanddele\Person.cs" />
     <Compile Include="Bestanddele\Personkartotek.cs" />
@@ -206,6 +210,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201804251905529_Repository.resx">
       <DependentUpon>201804251905529_Repository.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804251953063_Initial_Creation.resx">
+      <DependentUpon>201804251953063_Initial_Creation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

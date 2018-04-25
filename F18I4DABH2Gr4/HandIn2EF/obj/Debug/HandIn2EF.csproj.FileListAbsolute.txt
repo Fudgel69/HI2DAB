@@ -1,1 +1,12 @@
 D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.csprojResolveAssemblyReference.cache
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\HandIn2EF.exe.config
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\HandIn2EF.exe
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\HandIn2EF.pdb
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.dll
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\Newtonsoft.Json.dll
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.xml
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\Newtonsoft.Json.xml
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.exe
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.pdb
