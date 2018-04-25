@@ -17,7 +17,7 @@ public class UnitOfWork : IUnitOfWork
 	}
 
 
-    public IAdresseRepository Adresses
+    public IAdresseRepository Addresses
     {
         get { return new AdresseRepository(_context); }
     }

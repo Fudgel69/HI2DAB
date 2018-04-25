@@ -2,7 +2,7 @@
 
 public interface IUnitOfWork : IDisposable
 {
-    IAdresseRepository Adresses { get; }
+    IAdresseRepository Addresses { get; }
     ITelefonRepository Telefons { get; }
     IPersonkartotekRepository Personkartoteks { get; }
     IPersonRepository Persons { get; }

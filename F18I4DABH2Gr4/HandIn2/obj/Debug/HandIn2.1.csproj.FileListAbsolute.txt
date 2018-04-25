@@ -97,3 +97,4 @@ D:\HI2DAB\F18I4DABH2Gr4\HandIn2\bin\Debug\EntityFramework.SqlServer.xml
 D:\HI2DAB\F18I4DABH2Gr4\HandIn2\bin\Debug\Newtonsoft.Json.xml
 D:\HI2DAB\F18I4DABH2Gr4\HandIn2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 D:\HI2DAB\F18I4DABH2Gr4\HandIn2\obj\Debug\HandIn2.Migrations.Repository.resources
+D:\HI2DAB\F18I4DABH2Gr4\HandIn2\obj\Debug\HandIn2.Migrations.Initial_Creation.resources

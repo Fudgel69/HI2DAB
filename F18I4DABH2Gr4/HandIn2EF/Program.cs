@@ -12,9 +12,9 @@ namespace HandIn2EF
         {
             using (var _UnitOfWork = new UnitOfWork(new PKKontekst()))
             {
-                #region Create objects
+                #region Oprettelse af objekter
 
-                // create town for reference
+                //Laver en by
                 By Aarhus = new By()
                 {
                     Bynavn = "Aarhus",
@@ -22,7 +22,7 @@ namespace HandIn2EF
 
                 };
 
-                // create addresses
+                //Laver tre adresser, alle i Aarhus
                 Adresse Hjem = new Adresse()
                 {
                     Vejnavn = "Finlandsgade",
@@ -45,7 +45,7 @@ namespace HandIn2EF
                     Byer = Aarhus
                 };
 
-                // Lars
+                //Personen Bo bliver oprettet
                 Person Bo = new Person()
                 {
                     Fornavn = "Bo",
@@ -55,7 +55,7 @@ namespace HandIn2EF
                 };
                 Bo.SekAdresse.Add(Sommerhus);
 
-                // Jakob
+                //Personen Brian bliver oprettet
                 Person Brian = new Person()
                 {
                     Fornavn = "Brian",
@@ -66,47 +66,47 @@ namespace HandIn2EF
                 };
 
                 #endregion
-                Console.WriteLine("Press any key to quit");
-                // Add persons
+
+                //Creérer person-instanser i databasen
                 _UnitOfWork.Persons.Add(Bo);
                 _UnitOfWork.Persons.Add(Brian);
-                _UnitOfWork.Save(); // this will create town, addresses and persons in DB
-                Console.WriteLine("Press any key to quit");
-                // Get person
-                Person p1 = _UnitOfWork.Persons.GetById(Bo.PersonId);
-                Console.WriteLine("{0}, {1}", p1.Efternavn, p1.Fornavn);
+                _UnitOfWork.Save();
 
-                // Remove person
+                //Returner person
+                Person personEt = _UnitOfWork.Persons.GetById(Bo.PersonId);
+                Console.WriteLine("{0}, {1}", personEt.Efternavn, personEt.Fornavn);
+
+
                 _UnitOfWork.Persons.Delete(Bo);
                 _UnitOfWork.Save();
 
-                // Update person
-                Brian.Email = "mail@gmail.com";
+                Brian.Email = "bri@n.com";
                 Brian.SekAdresse.Add(Arbejde);
                 _UnitOfWork.Save();
 
-                // Find addresses in 8000
-                IEnumerable<Adresse> adr = _UnitOfWork.Adresses.GetAll();
+                //Find adresser i Aarhus (8000)
+                IEnumerable<Adresse> adr = _UnitOfWork.Addresses.Find(t => t.Byer.Postnummer == 8000);
+
 
                 foreach (var address in adr)
                 {
                     Console.WriteLine("{0}, {1}, 8000", address.Vejnavn, address.Husnummer);
                 }
 
-                #region Clean Up
-                _UnitOfWork.Persons.Delete(Brian);
+                #region Delete it
+                //_UnitOfWork.Persons.Delete(Brian);
 
-                //unitOfWork.Addresses.Remove(home);
-                //unitOfWork.Addresses.Remove(cottage);
-                //unitOfWork.Addresses.Remove(work);
+                //_UnitOfWork.Bys.DeleteRange(Aarhus);
+                //_UnitOfWork.Addresses.Delete(Hjem);
+                //_UnitOfWork.Addresses.Delete(Arbejde);
+                //_UnitOfWork.Addresses.Delete(Sommerhus);
 
-                // deleting the the town will delete its associated addresses
-                _UnitOfWork.Bys.Delete(Aarhus);
-
-                _UnitOfWork.Save();
+                //_UnitOfWork.Save();
+                //_UnitOfWork.Dispose();
+                
                 #endregion
             }
-            Console.WriteLine("Press any key to quit");
+            Console.WriteLine("Donzo!");
             Console.ReadKey();
         }
     }
