@@ -1,0 +1,13 @@
+D:\ikt_repo\DAB\HandIn2\HandIn2\bin\Debug\HandIn2.exe.config
+D:\ikt_repo\DAB\HandIn2\HandIn2\bin\Debug\HandIn2.exe
+D:\ikt_repo\DAB\HandIn2\HandIn2\bin\Debug\HandIn2.pdb
+D:\ikt_repo\DAB\HandIn2\HandIn2\bin\Debug\EntityFramework.dll
+D:\ikt_repo\DAB\HandIn2\HandIn2\bin\Debug\EntityFramework.SqlServer.dll
+D:\ikt_repo\DAB\HandIn2\HandIn2\bin\Debug\EntityFramework.xml
+D:\ikt_repo\DAB\HandIn2\HandIn2\bin\Debug\EntityFramework.SqlServer.xml
+D:\ikt_repo\DAB\HandIn2\HandIn2\obj\Debug\HandIn2.csprojResolveAssemblyReference.cache
+D:\ikt_repo\DAB\HandIn2\HandIn2\obj\Debug\HandIn2.exe
+D:\ikt_repo\DAB\HandIn2\HandIn2\obj\Debug\HandIn2.pdb
+D:\ikt_repo\DAB\HandIn2\HandIn2\obj\Debug\HandIn2.Migrations.InitialDatabase.resources
+D:\ikt_repo\DAB\HandIn2\HandIn2\obj\Debug\HandIn2.csproj.GenerateResource.Cache
+D:\ikt_repo\DAB\HandIn2\HandIn2\obj\Debug\HandIn2.Migrations.NyByfil.resources
