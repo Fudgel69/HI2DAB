@@ -1,0 +1,119 @@
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\ApplicationInsights.config
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\E17I4DABH33Gr4.dll.config
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\E17I4DABH33Gr4.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\E17I4DABH33Gr4.pdb
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Antlr3.Runtime.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.Web.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Newtonsoft.Json.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.AppContext.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Collections.NonGeneric.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Collections.Specialized.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Console.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Globalization.Calendars.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.IO.Compression.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.IO.FileSystem.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Net.NetworkInformation.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Net.Sockets.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Helpers.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Mvc.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Optimization.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Razor.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\WebGrease.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Newtonsoft.Json.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Helpers.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Mvc.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Optimization.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Razor.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Antlr3.Runtime.pdb
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.Web.xml
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\obj\Debug\E17I4DABH33Gr4.csprojResolveAssemblyReference.cache
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\obj\Debug\E17I4DABH33Gr4.csproj.CoreCompileInputs.cache
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\obj\Debug\E17I4DABH33Gr4.dll
+C:\Users\Emil Celik\Documents\33\E17I4DABH33Gr4\E17I4DABH33Gr4\obj\Debug\E17I4DABH33Gr4.pdb
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\ApplicationInsights.config
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\E17I4DABH33Gr4.dll.config
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\E17I4DABH33Gr4.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\E17I4DABH33Gr4.pdb
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Antlr3.Runtime.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.Web.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Newtonsoft.Json.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.AppContext.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Collections.NonGeneric.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Collections.Specialized.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Console.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Diagnostics.TraceSource.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Globalization.Calendars.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.IO.Compression.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.IO.Compression.ZipFile.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.IO.FileSystem.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Net.NetworkInformation.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Net.Sockets.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Helpers.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Mvc.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Optimization.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Razor.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.Razor.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\WebGrease.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Newtonsoft.Json.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Helpers.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Mvc.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Optimization.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.Razor.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\System.Web.WebPages.Razor.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Antlr3.Runtime.pdb
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\bin\Microsoft.AI.Web.xml
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\obj\Debug\E17I4DABH33Gr4.csprojResolveAssemblyReference.cache
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\obj\Debug\E17I4DABH33Gr4.dll
+C:\Users\tobia\Desktop\dab3\Del3\E17I4DABH33Gr4\E17I4DABH33Gr4\E17I4DABH33Gr4\obj\Debug\E17I4DABH33Gr4.pdb

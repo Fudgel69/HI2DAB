@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace RestAPICosmos
+namespace E17I4DABH33Gr4
 {
     public class RouteConfig
     {
@@ -16,7 +16,13 @@ namespace RestAPICosmos
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Person", action = "Index", id = UrlParameter.Optional }
+            );
+
+            routes.MapRoute(
+                name: "Cities",
+                url: "{controller}/{action}/{id}",
+                defaults: new { controller = "City", action = "Index", id = UrlParameter.Optional }
             );
         }
     }
