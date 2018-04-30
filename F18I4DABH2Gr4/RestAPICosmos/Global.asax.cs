@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace E17I4DABH33Gr4
+namespace RestAPICosmos
 {
     public class MvcApplication : System.Web.HttpApplication
     {
@@ -16,9 +16,9 @@ namespace E17I4DABH33Gr4
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-            DocumentDBRepository<E17I4DABH33Gr4.Models.Person>.Initialize();
-            DocumentDBRepository<E17I4DABH33Gr4.Models.City>.Initialize();
-            DocumentDBRepository<E17I4DABH33Gr4.Models.Address>.Initialize();
+            DocumentDBRepository<RestAPICosmos.Models.Person>.Initialize();
+            DocumentDBRepository<RestAPICosmos.Models.By>.Initialize();
+            DocumentDBRepository<RestAPICosmos.Models.Adresse>.Initialize();
         }
     }
 }

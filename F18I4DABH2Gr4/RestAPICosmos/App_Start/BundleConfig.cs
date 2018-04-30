@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace E17I4DABH33Gr4
+namespace RestAPICosmos
 {
     public class BundleConfig
     {

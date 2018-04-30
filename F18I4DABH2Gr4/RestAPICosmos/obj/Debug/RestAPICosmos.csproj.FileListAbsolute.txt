@@ -57,3 +57,130 @@ D:\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.Web.xml
 D:\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\RestAPICosmos.csprojResolveAssemblyReference.cache
 D:\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\E17I4DABH33Gr4.dll
 D:\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\E17I4DABH33Gr4.pdb
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\RestAPICosmos.csprojResolveAssemblyReference.cache
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\RestAPICosmos.csproj.CoreCompileInputs.cache
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\ApplicationInsights.config
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Antlr3.Runtime.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.Web.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Newtonsoft.Json.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.AppContext.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Collections.NonGeneric.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Collections.Specialized.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Console.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Globalization.Calendars.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.IO.Compression.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.IO.FileSystem.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Net.NetworkInformation.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Net.Sockets.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Helpers.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Mvc.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Optimization.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Razor.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\WebGrease.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Newtonsoft.Json.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Helpers.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Mvc.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Optimization.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Razor.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Antlr3.Runtime.pdb
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.Web.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\EntityFramework.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\EntityFramework.SqlServer.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\EntityFramework.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\EntityFramework.SqlServer.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\RestAPICosmos.dll.config
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\RestAPICosmos.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\bin\RestAPICosmos.pdb
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\RestAPICosmos.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\RestAPICosmos.pdb
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\ApplicationInsights.config
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\RestAPICosmos.dll.config
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\RestAPICosmos.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\RestAPICosmos.pdb
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Antlr3.Runtime.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\EntityFramework.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\EntityFramework.SqlServer.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.Web.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Newtonsoft.Json.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.AppContext.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Collections.NonGeneric.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Collections.Specialized.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Console.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Diagnostics.TraceSource.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Globalization.Calendars.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.IO.Compression.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.IO.Compression.ZipFile.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.IO.FileSystem.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Net.NetworkInformation.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Net.Sockets.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Helpers.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Mvc.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Optimization.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Razor.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.Razor.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\WebGrease.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\EntityFramework.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\EntityFramework.SqlServer.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Newtonsoft.Json.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Helpers.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Mvc.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Optimization.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.Razor.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\System.Web.WebPages.Razor.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Antlr3.Runtime.pdb
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\bin\Microsoft.AI.Web.xml
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\RestAPICosmos.csprojResolveAssemblyReference.cache
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\RestAPICosmos.dll
+C:\Users\tobia\Desktop\F18I4DABH2Gr4\RestAPICosmos\obj\Debug\RestAPICosmos.pdb

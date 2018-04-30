@@ -10,3 +10,16 @@ D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.SqlServer.xml
 D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\Newtonsoft.Json.xml
 D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.exe
 D:\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.pdb
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\HandIn2EF.exe.config
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\HandIn2EF.exe
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\HandIn2EF.pdb
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.csprojResolveAssemblyReference.cache
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.csproj.CoreCompileInputs.cache
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.exe
+C:\Users\Simon Nielsen\Documents\GitHub\HI2DAB\F18I4DABH2Gr4\HandIn2EF\obj\Debug\HandIn2EF.pdb

@@ -13,8 +13,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>E17I4DABH33Gr4</RootNamespace>
-    <AssemblyName>E17I4DABH33Gr4</AssemblyName>
+    <RootNamespace>RestAPICosmos</RootNamespace>
+    <AssemblyName>RestAPICosmos</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -46,6 +46,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Azure.Documents.Client, Version=1.10.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Azure.DocumentDB.1.10.0\lib\net45\Microsoft.Azure.Documents.Client.dll</HintPath>
     </Reference>
@@ -187,20 +193,19 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\AddressController.cs" />
-    <Compile Include="Controllers\CityController.cs" />
+    <Compile Include="Controllers\AdresseController.cs" />
+    <Compile Include="Controllers\ByController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PersonController.cs" />
     <Compile Include="DocumentDBRepository.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Address.cs" />
-    <Compile Include="Models\CellphoneProvider.cs" />
-    <Compile Include="Models\City.cs" />
-    <Compile Include="Models\CityDB.cs" />
+    <Compile Include="Models\Adresse.cs" />
+    <Compile Include="Models\By.cs" />
+    <Compile Include="Models\ByDB.cs" />
     <Compile Include="Models\Person.cs" />
-    <Compile Include="Models\TelephoneNumber.cs" />
+    <Compile Include="Models\Telefon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -243,15 +248,15 @@
     <Content Include="Views\Person\Index.cshtml" />
     <Content Include="Views\Person\Create.cshtml" />
     <Content Include="Views\Person\Edit.cshtml" />
-    <Content Include="Views\City\Index.cshtml" />
-    <Content Include="Views\City\Create.cshtml" />
-    <Content Include="Views\City\Edit.cshtml" />
+    <Content Include="Views\By\Index.cshtml" />
+    <Content Include="Views\By\Create.cshtml" />
+    <Content Include="Views\By\Edit.cshtml" />
     <Content Include="Views\Person\Delete.cshtml" />
-    <Content Include="Views\City\Delete.cshtml" />
-    <Content Include="Views\Address\Create.cshtml" />
-    <Content Include="Views\Address\Edit.cshtml" />
-    <Content Include="Views\Address\Delete.cshtml" />
-    <Content Include="Views\Address\Index.cshtml" />
+    <Content Include="Views\By\Delete.cshtml" />
+    <Content Include="Views\Adresse\Create.cshtml" />
+    <Content Include="Views\Adresse\Edit.cshtml" />
+    <Content Include="Views\Adresse\Delete.cshtml" />
+    <Content Include="Views\Adresse\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

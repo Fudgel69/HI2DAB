@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace E17I4DABH33Gr4.Controllers
+namespace RestAPICosmos.Controllers
 {
     public class HomeController : Controller
     {

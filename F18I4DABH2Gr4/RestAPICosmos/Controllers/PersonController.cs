@@ -28,7 +28,7 @@ namespace RestAPICosmos.Controllers
         [HttpPost]
         [ActionName("Create")]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> CreateAsync([Bind(Include = "FirstName,MiddleName,LastName,Email,Address,TelephoneNumbers")] Person person)
+        public async Task<ActionResult> CreateAsync([Bind(Include = "Fornavn,Mellemnavn,Efternavn,Email,Adresse,Telefonnumre")] Person person)
         {
             if (ModelState.IsValid)
             {
@@ -42,7 +42,7 @@ namespace RestAPICosmos.Controllers
         [HttpPost]
         [ActionName("Edit")]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> EditAsync([Bind(Include = "FirstName,MiddleName,LastName,Email,Address,TelephoneNumbers")] Person person)
+        public async Task<ActionResult> EditAsync([Bind(Include = "Fornavn,Mellemnavn,Efternavn,Email,Adresse,Telefonnumr")] Person person)
         {
             if (ModelState.IsValid)
             {

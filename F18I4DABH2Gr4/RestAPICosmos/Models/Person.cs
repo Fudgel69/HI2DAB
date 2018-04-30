@@ -11,20 +11,20 @@ namespace RestAPICosmos.Models
     {
         [JsonProperty(PropertyName = "id")]
         public string PersonId { get; set; }
-        public string FirstName { get; set; }
+        public string Fornavn { get; set; }
 
-        public string MiddleName { get; set; }
+        public string Mellemnavn { get; set; }
 
-        public string LastName { get; set; }
+        public string Efternavn { get; set; }
 
         [JsonProperty(PropertyName = "email")]
         public string Email { get; set; }
 
         [JsonProperty(PropertyName = "personAddress")]
-        public virtual Address Address { get; set; }
+        public virtual Adresse Adresse { get; set; }
 
         [JsonProperty(PropertyName = "telephoneNumber")]
-        public virtual TelephoneNumber TelephoneNumbers { get; set; }
+        public virtual Telefon Nummer { get; set; }
 
         public bool Completed { get; set; }
     }

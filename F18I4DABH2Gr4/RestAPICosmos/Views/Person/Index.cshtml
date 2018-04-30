@@ -1,4 +1,4 @@
-﻿@model IEnumerable<E17I4DABH33Gr4.Models.Person>
+﻿@model IEnumerable<RestAPICosmos.Models.Person>
 
 @{
     ViewBag.Title = "Index";
@@ -13,40 +13,37 @@
 <table class="table" style="width:100%">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.FirstName)
+            @Html.DisplayNameFor(model => model.Fornavn)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.MiddleName)
+            @Html.DisplayNameFor(model => model.Mellemnavn)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.LastName)
+            @Html.DisplayNameFor(model => model.Efternavn)
         </th>
         <th>
             @Html.DisplayNameFor(model => model.Email)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Address.AddressName)
+            @Html.DisplayNameFor(model => model.Adresse.Vejnavn)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Address.AddressNumber)
+            @Html.DisplayNameFor(model => model.Adresse.Husnummer)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Address.AddressType)
+            @Html.DisplayNameFor(model => model.Adresse.Type)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Address.ZipCode.CityName)
+            @Html.DisplayNameFor(model => model.Adresse.Postnummer.ByNavn)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Address.ZipCode.CityZipCode)
+            @Html.DisplayNameFor(model => model.Adresse.Postnummer.Postnummer)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.TelephoneNumbers.Number)
+            @Html.DisplayNameFor(model => model.Nummer.Nummer)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.TelephoneNumbers.TelephoneNumberType)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.TelephoneNumbers.CellphoneProvider)
+            @Html.DisplayNameFor(model => model.Nummer.Type)
         </th>
         <th></th>
     </tr>
@@ -54,37 +51,37 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem => item.FirstName)
+            @Html.DisplayFor(modelItem => item.Fornavn)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.MiddleName)
+            @Html.DisplayFor(modelItem => item.Mellemnavn)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.LastName)
+            @Html.DisplayFor(modelItem => item.Efternavn)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Email)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Address.AddressName)
+            @Html.DisplayFor(modelItem => item.Adresse.Vejnavn)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Address.AddressNumber)
+            @Html.DisplayFor(modelItem => item.Adresse.Husnummer)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Address.AddressType)
+            @Html.DisplayFor(modelItem => item.Adresse.Type)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Address.ZipCode.CityName)
+            @Html.DisplayFor(modelItem => item.Adresse.Postnummer.ByNavn)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Address.ZipCode.CityZipCode)
+            @Html.DisplayFor(modelItem => item.Adresse.Postnummer.Postnummer)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.TelephoneNumbers.Number)
+            @Html.DisplayFor(modelItem => item.Nummer.Nummer)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.TelephoneNumbers.TelephoneNumberType)
+            @Html.DisplayFor(modelItem => item.Nummer.Type)
         </td>
 
         <td>
